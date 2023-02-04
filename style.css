@@ -33,7 +33,7 @@ p {
     animation-name: slidein;
 }
 
-button {
+button, .notfound {
     animation: animate 1.2s linear infinite;
 }
 
